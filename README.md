@@ -1,4 +1,4 @@
-<img width="1842" height="721" alt="image" src="https://github.com/user-attachments/assets/d9001279-4d89-4d44-947a-2f18702b397f" />Selenium Automation Framework (with Java)
+
 
 **Author - Manas Parijat**
 
